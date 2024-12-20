@@ -1,0 +1,1 @@
+<h1 class="h-[90vh] flex items-center justify-center text-3xl mx-auto">404 - Страница не найдена</h1>
